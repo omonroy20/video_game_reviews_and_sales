@@ -1,2 +1,2 @@
 # video_game_reviews_and_sales
-Small project where I analyze reviews of video games from 1977-2020 and their publishers to see if there is any trend. There isn't much in the way of a conclusion in this project, but it does make for a fun little infographic about video games throughout most of their existence. Data used courtesy of https://www.kaggle.com/holmjason2/videogamedata .
+Small project where I analyze two types of reviews (user and critic) of video games from 1977-2020 and their publishers to see if there is any trend. There isn't much in the way of a conclusion in this project, but it does make for a fun little infographic about video games throughout most of their existence. Data used courtesy of https://www.kaggle.com/holmjason2/videogamedata .
